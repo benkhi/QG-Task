@@ -1,0 +1,16 @@
+http://210.117.182.30:3533/
+
+https://web.eecs.umich.edu/~wangluxy/papers/EMNLP2022_lei_huang_wang_beauchamp.pdf
+https://github.com/yuanyuanlei-nlp/bias_sentence_discourse_emnlp_2022
+
+https://arxiv.org/abs/2203.08383
+https://github.com/sunlab-osu/IterPrompt
+
+https://github.com/xingbowen714/co-guiding
+
+PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation
+https://github.com/XinyuHua/pair-emnlp2020
+
+https://aclanthology.org/2021.emnlp-main.243/
+
+https://github.com/huggingface/transformers/tree/main/examples/pytorch/question-answering
