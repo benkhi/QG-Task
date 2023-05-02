@@ -6,6 +6,7 @@ tqdm
 utils
 ordered-set
 fitlog
+config
 nltk
 onnxruntime
 tensorflow
