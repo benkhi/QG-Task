@@ -14,3 +14,5 @@ https://github.com/XinyuHua/pair-emnlp2020
 https://aclanthology.org/2021.emnlp-main.243/
 
 https://github.com/huggingface/transformers/tree/main/examples/pytorch/question-answering
+
+https://github.com/voidful/BDG/blob/main/BDG_selection.ipynb
