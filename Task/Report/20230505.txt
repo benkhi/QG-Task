@@ -1,0 +1,11 @@
+<5월 5일 - 주간보고>
+[2023년 5월 1주차 주간 업무 보고] 드립니다.
+
+<연구 진행 상황>
+
+Co-guiding net: implementation for Question task Generation
+<다음 주 계획>
+
+Co-guiding net:
+evaluation
+continue improving output.
